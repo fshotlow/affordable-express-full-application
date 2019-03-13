@@ -95,6 +95,7 @@ typings/
 
 
 ########
+public/
 Archive.zip
 client/node_modules/
 client/build/
