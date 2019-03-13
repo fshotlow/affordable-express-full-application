@@ -97,8 +97,8 @@ typings/
 ########
 public/
 Archive.zip
-client/public/*
-client/src/*
+client/public/
+client/src/
 client/node_modules/
 client/package.json
 client/.gitignore
